@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS "main"."players" (
+"uuid"  TEXT NOT NULL,
+"skills"  TEXT,
+"xp"  INTEGER DEFAULT 0,
+"equip"  TEXT,
+"levelpoints"  INTEGER,
+PRIMARY KEY ("uuid")
+);

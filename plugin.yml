@@ -1,0 +1,8 @@
+name: AvarionCombat
+description: Combat Plugin für Avarioncraft
+main: com.avarioncraft.AvarionCombat.core.AvarionCombat
+version: 1.0
+website: https://avarioncraft.de/
+authors: [Gestankbratwurst, Crysis992]
+depend: [CT-Core, ProtocolLib]
+api-version: 1.13
